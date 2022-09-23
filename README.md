@@ -15,6 +15,6 @@ N/A
 ## License
 Please refer to the LICENSE in the repo.
 
-![plot](./Erik-B-Code-Refractor/assets/images/screenshot-1.png "Part-1 Screenshot of Deployed Website")
+![Screenshot-Part-1](./assets/images/screenshot-1.png)
 
-![plot](./Erik-B-Code-Refractor/assets/images/screenshot-2.png "Part-2 Screenshot of Deployed Website")
+![Screenshot-Part-2](./assets/images/screenshot-2.png)
